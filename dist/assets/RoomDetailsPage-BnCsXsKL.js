@@ -1,1 +1,0 @@
-import{j as t}from"./index-Cnfp7bYh.js";const o=()=>t.jsx("div",{className:"container mx-auto px-4 py-8",children:t.jsx("h1",{className:"text-3xl font-bold mb-6",children:"Room Details"})});export{o as default};
